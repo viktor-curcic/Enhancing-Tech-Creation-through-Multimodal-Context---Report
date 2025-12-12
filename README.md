@@ -1,4 +1,4 @@
-# Enhancing Tech Creation through Multimodal Context — Report
+# Enhancing Tech Creation through Multimodal Context - Report
 
 This repository contains a technical report for the JetBrains Research internship proposal: **"Enhancing Tech Creation through Multimodal Context."**
 
